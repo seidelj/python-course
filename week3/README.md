@@ -45,3 +45,5 @@ git revert <rev commit hash>
 ## The 'elements' of Python
 
 I began to introduce the fundemental aspects of working with Python as an Economist.  The Jupyter Notebook is included in this file directory and named `elements.ipynb`.
+
+* For extra practice familiarizing yourself with behavior in Python, take a look at the section I added called: Strings, numbers and operators.  
