@@ -1,6 +1,6 @@
 ## Elements notebook
 
-We completed the 'elements' of Python notebook.  The file can be found under the week3 folder.
+We completed the 'elements' of Python notebook.  The file can be found under the [week3 folder](https://github.com/seidelj/python-course/blob/main/week3/elements.ipynb).
 
 * I recomend taking a look at the additional information added to the If statements section on `elif` and nested statements.
 
