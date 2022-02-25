@@ -2,7 +2,7 @@
 
 This week we finished our `readwrite.ipynb` file on reading and writing data using only native python modules, the complete file is available in the [week5 folder](https://github.com/seidelj/python-course/edit/main/week5/).
 
-We also began our introduction to working with packages that are not included in the default installation of Python, namely `pandas` and `numpy`.  Numpy is a dependency of pandas and provides arrays and matrix structures useful to scientific computing in Python.  We began replicating our readwrite.ipynb example, but using pandas.
+We also began our introduction to working with packages that are not included in the default installation of Python, namely `pandas` and `numpy`.  Numpy is a dependency of pandas and provides arrays and matrix structures useful to scientific computing in Python.  We began replicating our readwrite.ipynb example, but using pandas.  We began the file `pandas_intro.ipynd`.
 
 
 ### Installing packages
