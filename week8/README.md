@@ -8,4 +8,4 @@ This week we revisted pandas_intro.ipynb from week6 to take a closer look at the
 
 After this in depth review of the apply function, we created a new variable for our roster dataframe that determine whether an individual was in the top 50 percentile of their respective group (red or blue).
 
-We also started a new file `pandas_advanced.ipynd`.  We read in a csv file via URL and demonstrated a handful of commands to get a birds eye view of a the data.  We then created a custom function to create a new variable that would represent the fundemental value of an asset in a given market and round of a hypothetical experimental data set.
+We also started a new file `pandas_advanced.ipynd`.  We read in a csv file via URL and demonstrated a handful of commands to get a birds eye view of a the data.  We then created a custom function to create a new variable that would represent the fundemental value of an asset in a given market and round of a fictional data set from an experiment.
