@@ -3,10 +3,10 @@ Python Mini course taught at IU 2022
 
 
 # Resources
+The course uses a conda to install Python and the required packages.  All examples are done using the Python notebook environment, Jupyter.
+
 * [Conda](https://docs.conda.io/en/latest/)  You can [install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) Miniconda and Anaconda (I chose Miniconda).
 * [Jupyter](https://jupyter.org)  We are going to JupyterLab for this course.
-* A fun game to learn [Vim](https://vim-adventures.com)
-* [Vim cheat sheet](https://vim.rtorr.com)
 
 ## Working with Data
 
@@ -18,6 +18,10 @@ Python Mini course taught at IU 2022
 * matplotlib [examples](https://matplotlib.org/stable/gallery/index)
 * matplotlib [cheat sheets](https://matplotlib.org/cheatsheets/)
 
+## Misc
+
+* One way to learn how to use the text editor, Vim: [Game](https://vim-adventures.com)
+* [Vim cheat sheet](https://vim.rtorr.com)
 
 # Recordings
 
