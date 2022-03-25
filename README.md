@@ -1,6 +1,7 @@
-# python-course
-Python Mini course taught at IU 2022
+# Python Mini Course
+Python Mini course taught at IU 2022.
 
+This course is split into 10, one hour long 'code-a-long' lessons.  I start assuming that you don't have Python installed or know how to run any code using Python.  I introduce the basic elements of Python and then dive into working with Pandas--A data analysis library.  I conclude the class with a brief introductory to data visualization and webscraping.  Throughout, I sprinkle in mini tutorials on useful tools -- including git, github, and virtual environments.
 
 # Resources
 The course uses a conda to install Python and the required packages.  All examples are done using the Python notebook environment, Jupyter.
