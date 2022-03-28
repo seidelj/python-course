@@ -1,6 +1,6 @@
 ## Summary
 
-We cover webscraping static website using `requests` and `BeautifulSoup`.
+We cover webscraping static website using [Requests](https://docs.python-requests.org/en/latest/) and [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/).
 
 ### Dynamic Sites
 
